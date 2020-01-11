@@ -1,3 +1,6 @@
+React Coin flipper project to demonstrate setting state, react events, changing state, and initializing with constructor function.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
